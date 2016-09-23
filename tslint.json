@@ -1,6 +1,5 @@
 {
   "rules": {
-    "import-destructuring-spacing": true,
     "no-arg": true,
     "no-construct": true,
     "no-duplicate-key": true,
