@@ -39,6 +39,7 @@
   "name": "testdeploymenttodevice",
   "scripts": {
     "build": "webpack",
+    "start": "webpack-dev-server",
     "run": "npm run build && cordova run android"
   },
   "version": "0.0.1",
